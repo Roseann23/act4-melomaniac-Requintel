@@ -53,6 +53,9 @@
                         <ul class="list-inline-item mb-0" type='none'>
                         <li><h7 class='fw-bolder'>Song 1 - "Roar"</h7><i> - Song by: Katty Perry</i></li>
                         <li><h7 class='fw-bolder'>Song 2 - "Heartbreak Anniversary"</h7><i> - Song by: Giveon</i></li>
+                        <li><h7 class='fw-bolder'>Song 3 - "Crazier"</h7><i> - Song by: Taylor Swift</i></li>
+                        <li><h7 class='fw-bolder'>Song 4 - "Fireworks"</h7><i> - Song by: Katty Perry</i></li>
+                        <li><h7 class='fw-bolder'>Song 5 - "It Will Rain"</h7><i> - Song by: Bruno Mars</i></li>
                         </ul>
                     </div>
                 </div>

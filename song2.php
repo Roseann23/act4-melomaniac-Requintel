@@ -37,8 +37,8 @@
         <header class="bg-dark bg-gradient text-white">
             
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Roar</h1>
-                <p class="lead">Song by: Katty Perry</p>
+                <h1 class="fw-bolder">Heartbreak Anniversary</h1>
+                <p class="lead">Song by: Giveon</p>
                 
             </div>
         
@@ -58,61 +58,54 @@
                         echo "<p class='lead'></p>"; 
                         echo "<br/>"; 
  
-                        echo "<p class='small'>[Intro]</p>"; 
-                        echo "<p>[D] [A] [Bm] [G] [(G)]  </p>";
+                        echo "<p class='small'>[Intro]</p>";
+                        echo "<p> [C] [E7] [F] </p>";
+                        echo "<p>[Dm7]Ooh-oh-Woah </p>";
                         echo "<br/>"; 
  
                         echo "<p class='small'>[Verse 1]</p>"; 
-                        echo "<p>[D]I'd never gone with the [A]wind </p>";
-                        echo "<p> Just let it [Em]flow </p>";
-                        echo "<p> Let it [G]take me [(A)]where it wants to [D]go </p>";
-                        echo "<p> Till you open the [A]door there's so much [Em]more </p>";
-                        echo "<p> I've never [G]seen it before </p>"; 
-                        echo "<p> I was [A]trying to [Bm]fly but I [G]couldn't find wings </p>";
-                        echo "<p> But [A]you came [Bm]along and you [G]changed everything </p>";                         
+                        echo "<p> [C] Balloons are deflated</p>";
+                        echo "<p> [E7] Guess they look lifeless like me</p>";
+                        echo "<p> [F] We miss you on your side of [Dm7]the bed, hmm</p>";
+                        echo "<p>[C] Still got your things here</p>";
+                        echo "<p> [E7] They stare at me like souvenirs</p>"; 
+                        echo "<p>[F] Don't wanna let you out my head [Dm7]   </p>";
                         echo "<br/>"; 
 
-                        echo "<p class='small'>[Chorus ]</p>";                         
-                        echo "<p> [D]You lift my feet off the [A]ground </p>";
-                        echo "<p> You spin me [Bm]around </p>";
-                        echo "<p> You make me [G]crazier, crazier </p>";
-                        echo "<p>[D]Feels like I'm falling and [A]I </p>";
-                        echo "<p> I'm lost in your [Bm]eyes </p>";
-                        echo "<p> You make me [G]crazier, [(G)]crazier, crazier  </p>";                        
+                        echo "<p class='small'>[Pre-Chorus ]</p>"; 
+                        echo "<p> Just like the [C]day that I met you</p>";
+                        echo "<p> The day I thought forever</p>";
+                        echo "<p> [E7]Say that you love me but that'll last for never</p>";
+                        echo "<p>[F]It's cold outside, like when you walked out my life</p>";
+                        echo "<p> [E]Why you walked out my [Dm]life? </p>";
                         echo "<br/>"; 
  
-                        echo "<p class='small'>[Verse 2]</p>"; 
-                        echo "<p> I [D]watched from a distance as [A]you  </p>";
-                        echo "<p> Made life your [Em]own </p>";
-                        echo "<p> Every [G]sky was [(A)]your own kind of [D]blue </p>";
-                        echo "<p> And I wanted to [A]know how that would [Em]feel  </p>";
-                        echo "<p> And you [G]made it so real </p>";
-                        echo "<p>[A]You showed me [Bm]something that [G]I couldn't see </p>";
-                        echo "<p> [A]You opened my [Bm]eyes and you [G]made me believe </p>";
-                        echo "<br/>"; 
-                        echo "<p class='small'>[Chorus ]</p>";                         
-                        echo "<p> [D]You lift my feet off the [A]ground </p>";
-                        echo "<p> You spin me [Bm]around </p>";
-                        echo "<p> You make me [G]crazier, crazier </p>";
-                        echo "<p>[D]Feels like I'm falling and [A]I </p>";
-                        echo "<p> I'm lost in your [Bm]eyes </p>";
-                        echo "<p> You make me [G]crazier, [(G)]crazier, crazier  </p>";                        
+                        echo "<p class='small'>[Chorus]</p>"; 
+                        echo "<p> [C]I, get like this every [E7]time</p>";
+                        echo "<p> On these [F]days that feel like you and me </p>";
+                        echo "<p> [C]Heartbreak [Dm7]anniversary </p>";
+                        echo "<p> 'Cause [C]I, remember every [E7]time </p>";                         
+                        echo "<p> On these [Fmaj7]days that feel like you and me </p>";
+                        echo "<p>[F]Heartbreak anniversary</p>";
+                        echo "<p>[Dm7]Do you ever think [Cmaj7]of me? </p>";
+                        echo "<p>[C] < /p>";
                         echo "<br/>"; 
  
-                        echo "<p class='small'>[Interlude ]</p>";
-                        echo "<p> [D] [A] [G] [(G)] </p>";                        
+                        echo "<p class='small'>[Post-Chorus]</p>"; 
+                        echo "<p> [Em7] No</p>";
+                        echo "<p>[Fmaj7] No-no, [F]no-no </p>"; 
+                        echo "<p> Ooh-ooh </p>";
+                        echo "<p> [Dm7]Nah</p>"; 
                         echo "<br/>"; 
-                        echo "<p class='small'>[Bridge ]</p>";
-                        echo "<p> [A]Baby you [Bm]showed me what [G]living is for </p>";
-                        echo "<p> I [A]don't want to [Bm]hide [G]anymore  </p>";                        
-                        echo "<br/>"; 
-                        echo "<p class='small'>[Chorus ]</p>";                         
-                        echo "<p> [D]You lift my feet off the [A]ground </p>";
-                        echo "<p> You spin me [Bm]around </p>";
-                        echo "<p> You make me [G]crazier, crazier </p>";
-                        echo "<p>[D]Feels like I'm falling and [A]I </p>";
-                        echo "<p> I'm lost in your [Bm]eyes </p>";
-                        echo "<p> You make me [G]crazier, [(G)]crazier, crazier  </p>";                           
+ 
+                        echo "<p class='small'>[Verse 2 ]</p>"; 
+                        echo "<p> [C]I'm buildin' my hopes up </p>";
+                        echo "<p> [E7]Like presents unopened to this day </p>";
+                        echo "<p> [F] I still see the messages you read, [Dm7]hmm </p>";
+                        echo "<p> [C] I'm foolishly patient (Foolishly [E7]patient) </p>";
+                        echo "<p> Can't get past the taste   </p>";
+                        echo "<p> of your lips (Taste of your [F]lips) </p>";
+                        echo "<p> Don't wanna let you out my [C][Dm7]he-ad  </p>";
                         echo "<br/>";
 
 
