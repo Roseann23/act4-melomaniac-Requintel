@@ -10,7 +10,7 @@
         <link href="css/styles.css" rel="stylesheet" />
         <style>
         body {
-                 background-color: darkslateblue;
+                 background-color: brown;
             }
         </style>
 
